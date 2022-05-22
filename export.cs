@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 using System.IO;
 
 /*
-C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:library AllTheThings.cs
-"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ildasm.exe" AllTheThings.dll  /out=AllTheThings.il
-C:\Windows\Microsoft.NET\Framework\v4.0.30319\ilasm.exe /DLL /X64 AllTheThings.il
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:library Export.cs
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\ildasm.exe" Export.dll  /out=Export.il
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\ilasm.exe /DLL /X64 Export.il
 */
 
 
